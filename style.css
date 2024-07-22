@@ -1,0 +1,39 @@
+*, body {
+  margin: 10px;
+  padding: 10px 10px 10px 10px; 
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  align-items: center;  
+  }
+  .formValidation {
+    display: block;
+    width: 95%;
+    margin: 20px 20px 20px 20px ;
+    height: 82vh;
+    background-color: lightblue;
+    border-radius: 20px;
+    text-align: center;
+  }
+
+  h1, h3{
+    color: aliceblue;
+    font-weight: bold;
+  }
+label{
+  color: aliceblue;
+}  
+
+input{
+  border: none;
+  border-radius: 20px;
+}
+
+button{
+  border-radius: 20px;
+  border: none;
+  color: rgb(113, 150, 182);
+}
+
+button:hover{
+  color: rgba(113, 150, 182, 0.733);
+}
